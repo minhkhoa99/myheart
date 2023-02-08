@@ -75,29 +75,29 @@ canvas {
   top: 64%;
   transform: translate(-50%, -50%);
   width: 420px;
-  height: 420px;
+  height: 500px;
 }
 
 #pinkboard {
   position: relative;
   top: 0%;
   left: 0%;
-  height: 429px;
+  height: 600px;
 }
 
 .STARDUST1 {
   position: relative !important;
-  top: -60px;
+ 
 }
 
 .STARDUST2 {
   position: relative !important;
-  top: -40px;
+  top: 10px;
 }
 
 .STARDUST3 {
   position: relative !important;
-  top: -20px;
+  top: 20px;
 }
 
 /* 星空css */
